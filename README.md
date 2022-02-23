@@ -1,7 +1,8 @@
 # Azure Phone Chatbot
 
-This is 3d Azure Friendly ChatBot 💬 🤖 
+This is 3d Azure Friendly ChatBot using Azure Bot Service 💬 🤖
 
+We have started this project with the purpose of participating to the Microsoft Azure Hackathon on dev.to.
 
 ![image](https://user-images.githubusercontent.com/77109037/155403689-eaf1c113-13ee-479b-871c-0bd6a9e68819.png)
 
@@ -40,6 +41,9 @@ This is 3d Azure Friendly ChatBot 💬 🤖
 
 8. Make 3d phone design 😀
 
+# The Team 
+- Verica Spaskovska https://dev.to/verica02
+- Georgios Christodoulidis 
 
 # Demo
 https://azurechatbot.netlify.app/ 💖
