@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel = "stylesheet"  href = "style.css">
+</head>
+<body>
+	<div class="container">
+		
+		<div class ="phone">
+		  <div class="front">
+			  
+			<div id = "chatbot" style = "display: none">
+
+				<iframe src='https://webchat.botframework.com/embed/qnachatbotawesome-bot?s=SYdnJXI-1YU.tEGkWqAfo_tinIrejyRTuXT6cJ030gGoO-gR4RM7F_Q'  style='min-width: 200px; width: 100%; min-height: 370px;'></iframe>
+
+
+			</div>
+
+		    <div class ="screen" id = "screenid">
+			
+			
+			<img  id = 'phoneimg' src="chatimg.png" alt="chatbot" style="width:70px;height:70px;margin:65px; cursor:pointer  "onclick = 'hide()'>
+			
+		    </div>
+		  </div>
+		  <div class= "back"></div>
+		  <div class ="left">
+		    <div class ="buttons">
+		      <div class ="button"></div>
+		      <div class ="button"></div>
+		      </div>
+		  </div>
+		  <div class ="right"></div>
+		  <div class ="top"> </div>
+		<div class ="bottom">
+		    <div class ="hole"></div>
+		    <div class ="hole"></div>
+		    <div class ="hole"></div>
+		    <div class ="port"></div>
+		    <div class ="hole"></div>
+		    <div class ="hole"></div>
+		    <div class ="hole"></div>
+		</div>
+		</div>      
+	      
+	</div>    
+
+</body>
+
+<script type = "text/javascript">
+   
+   function hide(){
+	   document.getElementById('phoneimg').style.display = 'none';
+	   document.getElementById('screenid').style.display = 'none';
+	   document.getElementById('chatbot').style.display = 'block';
+	   }
+</script>
+</html>
