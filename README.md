@@ -1,4 +1,4 @@
-# azure-3d-phone-chatbot
+# Azure Phone Chatbot
 
 This is 3d Azure Friendly ChatBot 💬 🤖 
 
